@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.banner-section {
+    background: url("./resources/header/header-background.png");
+    background-size: cover;
+}
+
+.iphone-upper-text{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 15px;
+    font-style: normal;
+}
+header.banner-section h1.title-text-iphone {
+    font-family: "Montserrat", sans-serif;
+    font-size: 70px;
+    font-weight: 400;
+    
+}
+header.banner-section p.tittle-text{
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+   
+    
+}
+
+.button-shop-now{
+    background-color: #171495;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.airpods .desc-airpods h1 p {
+    font-family: "Montserrat", mixed;
+    margin-right: -50px;
+    margin-left: 20px;
+   
+}
+
+.ipad-9-tittle{
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.macbook{
+    font-size: 50px;
+    text-decoration: none;
+    font-family: "Montserrat", thin; 
+    font-weight: 64;
+}
+
+.air{
+    font-size: 50px;
+    font-family: "Montserrat", medium; 
+    font-weight: bold;
+}
+
+.airpos-tittle{
+    font-family: "Montserrat", light; 
+    font-weight: 29;
+}
+
+.product-card-tittle{
+    font-family: "Montserrat", medium; 
+    font-size: medium;
+    font-weight: 80;
+    font-size: 20px;
+}
+
+.card-subtitle{
+    font-weight: 900;
+    font-size: larger;
+}
+
+.sale-11{
+    font-family: "Montserrat", sans-serif;
+    font-size: 80px;
+    font-weight: 900;
+}
